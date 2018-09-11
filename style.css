@@ -9,15 +9,15 @@ div {
   margin: auto
   font-family:"Helvetica Neue"
   background-clip: white 
+  padding: 30px
 }
 
 /* ID selector to select the element with id 'main-header' */
-#main-header {
-  /* Your code here! */
-  color:red;
+#main-header { 
+  font: size 22px 
 }
 
 /* Class selector to select elements containing the class 'perspective-questions' */
 .perspective-questions {
-  /* Your code here! */
+  font-style: italic
 }
