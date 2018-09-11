@@ -6,8 +6,8 @@ body { background: #00b3e6
 /* Tag selector to select all 'div' elements. We only have one 'div' in our HTML */
 div {
   width: 700px
-  margin
-  font-family:
+  margin: auto
+  font-family:"Helvetica Neue"
   background-clip: white 
 }
 
